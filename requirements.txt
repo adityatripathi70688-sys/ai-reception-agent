@@ -5,3 +5,4 @@ numpy
 python-dotenv
 sentence-transformers
 psycopg2-binary
+requests
